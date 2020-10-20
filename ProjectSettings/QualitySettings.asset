@@ -224,7 +224,10 @@ QualitySettings:
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 2
+<<<<<<< HEAD
     CloudRendering: 5
+=======
+>>>>>>> 8d8680a558a12483b21378a286e6be76e0300efb
     Lumin: 5
     Nintendo Switch: 5
     PS4: 5

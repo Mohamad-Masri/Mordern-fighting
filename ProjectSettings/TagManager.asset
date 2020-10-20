@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - ground
+>>>>>>> 8d8680a558a12483b21378a286e6be76e0300efb
   layers:
   - Default
   - TransparentFX
@@ -13,7 +18,11 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - 
+=======
+  - Enemy
+>>>>>>> 8d8680a558a12483b21378a286e6be76e0300efb
   - 
   - 
   - 

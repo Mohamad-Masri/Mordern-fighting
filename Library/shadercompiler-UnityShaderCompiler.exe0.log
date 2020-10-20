@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Base path: 'D:/Program Files/Unity/Unity Version/2019.4.12f1/Editor/Data', plugins path 'D:/Program Files/Unity/Unity Version/2019.4.12f1/Editor/Data/PlaybackEngines'
+=======
+Base path: 'C:/Program Files/Unity 2020.1.0b6/Editor/Data', plugins path 'C:/Program Files/Unity 2020.1.0b6/Editor/Data/PlaybackEngines'
+>>>>>>> 8d8680a558a12483b21378a286e6be76e0300efb
 Cmd: initializeCompiler
